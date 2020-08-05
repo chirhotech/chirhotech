@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
 ### Matt McGraw - Chi Rho Technology Services
 
 # Chi Rho Technology Services (XPTS)
@@ -11,10 +8,6 @@ Welcome to the XPTS GitHub. We are a boutique IT shop based in the central valle
 Whether you need a website, a cloud service, a purchase consultation, or even to outsource your whole IT department:<br>
 *We Can Help!*
 
-
-
-
-<i class="fas fa-play-circle"></i>
 
 <!--
 **chirhotech/chirhotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
