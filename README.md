@@ -8,6 +8,8 @@ Welcome to the XPTS GitHub. We are a boutique IT shop based in the central valle
 Whether you need a website, a cloud service, a purchase consultation, or even to outsource your whole IT department:<br>
 *We Can Help!*
 
+<p> <a href="mailto:matt@chirhotech.com"> <img src="images/email.png" width=64px> </a> </p>
+
 
 <!--
 **chirhotech/chirhotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
