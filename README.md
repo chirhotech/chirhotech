@@ -1,4 +1,6 @@
-### Hi there 👋
+### Matt McGraw - Chi Rho Technology Services
+
+# This is the GitHub for my business, Chi Rho Technology Services (XPTS)
 
 <!--
 **chirhotech/chirhotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
