@@ -1,8 +1,8 @@
 ### Matt McGraw - Chi Rho Technology Services
 
-## Chi Rho Technology Services (XPTS)
+# Chi Rho Technology Services (XPTS)
 
-Hello,
+Hello,  
 Welcome to the XPTS GitHub. We are a boutique IT shop based in the central valley of California. We serve in-person clients in Sacramento, San Joaquin, and Stanislaus counties. In addition, we are available to clients worldwide for remote work and consultation.
 
 Whether you need a website, a cloud service, a purchase consultation, or even to outsource your whole IT department: We Can Help!
